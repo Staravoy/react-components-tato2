@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: American typewriter;
+}
+
+body,
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    /* Відміна маркерів для ненумерованих списків */
+}
+
+ol {
+    list-style-type: none;
+    /* Відміна маркерів для нумерованих списків */
+}
+
+/* Додайте додаткові скидання для інших елементів, якщо необхідно */
+
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    /* background: white; */
+}

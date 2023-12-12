@@ -1,0 +1,26 @@
+.item {
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    border: 1px solid white;
+}
+
+.label {
+    color: red;
+    font-weight: bold;
+}
+
+.percentage {
+    color: yellow;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.stat_list {
+    display: flex;
+}

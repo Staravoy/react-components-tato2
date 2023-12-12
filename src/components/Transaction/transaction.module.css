@@ -1,0 +1,22 @@
+.tableStyle {
+    border: 1px solid white;
+    width: 300px;
+}
+
+.thead {
+    background-color: red;
+}
+
+.tbodyStyle tr {
+    margin-left: 10px;
+}
+
+/* Застосувати білий колір для парних рядків */
+.tbodyStyle tr:nth-child(even) {
+    background-color: white;
+}
+
+/* Застосувати сірий колір для непарних рядків */
+.tbodyStyle tr:nth-child(odd) {
+    background-color: grey;
+}
