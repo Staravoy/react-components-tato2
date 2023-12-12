@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Staravoy/react-components-tato2.git/static/css/main.7acaea2f.css",
-    "main.js": "/Staravoy/react-components-tato2.git/static/js/main.07d3183d.js",
-    "index.html": "/Staravoy/react-components-tato2.git/index.html",
-    "main.7acaea2f.css.map": "/Staravoy/react-components-tato2.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Staravoy/react-components-tato2.git/static/js/main.07d3183d.js.map"
+    "main.css": "/react-components-tato/static/css/main.af1b4747.css",
+    "main.js": "/react-components-tato/static/js/main.f2e54500.js",
+    "index.html": "/react-components-tato/index.html",
+    "main.af1b4747.css.map": "/react-components-tato/static/css/main.af1b4747.css.map",
+    "main.f2e54500.js.map": "/react-components-tato/static/js/main.f2e54500.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.af1b4747.css",
+    "static/js/main.f2e54500.js"
   ]
 }
